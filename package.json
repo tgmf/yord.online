@@ -1,0 +1,27 @@
+{
+  "name": "yord.online",
+  "version": "0.2.0",
+  "author": "t <t@tak-agency.com>",
+  "description": "website for yord",
+  "contributors": [
+    {
+      "name": "Justin Beckwith",
+      "email": "justbe@microsoft.com"
+    }
+  ],
+  "main": "./server.js",
+  "keywords": [
+    "training",
+    "couch",
+    "course"
+  ],
+  "dependencies": {
+    "jade": "*",
+    "express": "~3.1.0"
+  },
+  "noAnalyze": true,
+  "license": "GPL-3.0",
+  "engines": {
+    "node": ">=0.6.14"
+  }
+}
